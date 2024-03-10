@@ -1,4 +1,3 @@
-let color = document.getElementById('colorInput');
 let button = document.getElementById('buttonClass');
 let classToClass = document.querySelectorAll('.elements')
 
